@@ -45,7 +45,4 @@ def test_pomodoro_interrumpir
 	assert_equal 1, @mypomodoro.interrupciones
 
 end
-
-
-
 end
